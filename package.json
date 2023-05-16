@@ -1,13 +1,13 @@
 {
-  "name": "github-finder",
-  "version": "0.1.0",
+  "name": "search-box",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "@nomoreanalog/react-scripts-eslintless": "2.1.10",
-    "axios": "^0.21.1",
-    "moment-jalaali": "^0.8.3",
-    "react": "^16.10.0",
-    "react-dom": "^16.10.0",
+    "@nomoreanalog/react-scripts-eslintless": "^2.1.10",
+    "axios": "^1.4.0",
+    "moment-jalaali": "^0.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-persian-datepicker": "^3.0.2"
   },
   "scripts": {
@@ -21,8 +21,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "babel-plugin-styled-components": "^1.10.6"
-  }
+  ]
 }
